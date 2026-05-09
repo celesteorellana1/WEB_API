@@ -31,3 +31,4 @@ C:\Users\CELESTE ORE\Documents\Semestre 7\ANALISIS DE SISTEMAS\Api_Ranger\API_RA
 C:\Users\CELESTE ORE\Documents\Semestre 7\ANALISIS DE SISTEMAS\Api_Ranger\API_RANGER\obj\Debug\net10.0\API_RANGER.pdb
 C:\Users\CELESTE ORE\Documents\Semestre 7\ANALISIS DE SISTEMAS\Api_Ranger\API_RANGER\obj\Debug\net10.0\API_RANGER.genruntimeconfig.cache
 C:\Users\CELESTE ORE\Documents\Semestre 7\ANALISIS DE SISTEMAS\Api_Ranger\API_RANGER\obj\Debug\net10.0\ref\API_RANGER.dll
+C:\Users\CELESTE ORE\Documents\Semestre 7\ANALISIS DE SISTEMAS\Api_Ranger\API_RANGER\obj\Debug\net10.0\API_RANGER.sourcelink.json
