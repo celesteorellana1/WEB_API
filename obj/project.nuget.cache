@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAC6lCPSIf0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 7\\ANALISIS DE SISTEMAS\\Api_Ranger\\API_RANGER\\API_RANGER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CELESTE ORE\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\CELESTE ORE\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
